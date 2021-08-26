@@ -80,6 +80,15 @@
             "numOfStars": 2,
             "githubUrl": "https://github.com/alhiane-hero/quiz-app",
             "demoUrl": "https://al-quiz-app.netlify.app"
+        },
+        {
+            "id": 10,
+            "type": "javascript",
+            "imgSrc": "img/prt-10.jpeg",
+            "workName": "Grd Bg Generator",
+            "numOfStars": 1,
+            "githubUrl": "https://github.com/alhiane-hero/gr-bg-generator",
+            "demoUrl": "https://alhiane-hero.github.io/gr-bg-generator/"
         }
     ]
 }
