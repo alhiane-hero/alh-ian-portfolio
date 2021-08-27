@@ -98,6 +98,15 @@
             "numOfStars": 2,
             "githubUrl": "https://github.com/alhiane-hero/todo-list-app",
             "demoUrl": "https://alhiane-hero.github.io/todo-list-app/"
+        },
+        {
+            "id": 12,
+            "type": "javascript",
+            "imgSrc": "img/prt-12.jpeg",
+            "workName": "Loan Calculator",
+            "numOfStars": 2,
+            "githubUrl": "https://github.com/alhiane-hero/loan-calculato",
+            "demoUrl": "https://alhiane-hero.github.io/loan-calculato/"
         }
     ]
 }
