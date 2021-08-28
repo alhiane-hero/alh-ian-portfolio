@@ -107,6 +107,24 @@
             "numOfStars": 2,
             "githubUrl": "https://github.com/alhiane-hero/loan-calculato",
             "demoUrl": "https://alhiane-hero.github.io/loan-calculato/"
+        },
+        {
+            "id": 12,
+            "type": "javascript",
+            "imgSrc": "img/prt-12.jpeg",
+            "workName": "Loan Calculator",
+            "numOfStars": 2,
+            "githubUrl": "https://github.com/alhiane-hero/loan-calculato",
+            "demoUrl": "https://alhiane-hero.github.io/loan-calculato/"
+        },
+                {
+            "id": 13,
+            "type": "javascript",
+            "imgSrc": "img/prt-13.jpeg",
+            "workName": "Number Guesser",
+            "numOfStars": 3,
+            "githubUrl": "https://github.com/alhiane-hero/number-guesser",
+            "demoUrl": "https://alhiane-hero.github.io/number-guesser/"
         }
     ]
 }
