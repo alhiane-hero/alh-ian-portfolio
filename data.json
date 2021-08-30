@@ -134,6 +134,15 @@
             "numOfStars": 2,
             "githubUrl": "https://github.com/alhiane-hero/book-list-app",
             "demoUrl": "https://alhiane-hero.github.io/book-list-app/"
+        },
+        {
+            "id": 15,
+            "type": "javascript",
+            "imgSrc": "img/prt-15.jpeg",
+            "workName": "Weather App",
+            "numOfStars": 1,
+            "githubUrl": "https://github.com/alhiane-hero/weather-app",
+            "demoUrl": "https://alhiane-hero.github.io/weather-app/"
         }
     ]
 }
