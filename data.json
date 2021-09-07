@@ -2,6 +2,7 @@
     "data": [
         {
             "id": 1,
+            
             "type": "javascript",
             "imgSrc": "img/prt-1.jpeg",
             "workName": "Js Store",
@@ -143,6 +144,15 @@
             "numOfStars": 1,
             "githubUrl": "https://github.com/alhiane-hero/weather-app",
             "demoUrl": "https://alhiane-hero.github.io/weather-app/"
+        },
+        {
+            "id": 16,
+            "type": "javascript",
+            "imgSrc": "img/prt-16.jpeg",
+            "workName": "Cocktails Api",
+            "numOfStars": 2,
+            "githubUrl": "https://github.com/alhiane-hero/cocktails-API",
+            "demoUrl": "https://alhiane-hero.github.io/cocktails-API/"
         }
     ]
 }
