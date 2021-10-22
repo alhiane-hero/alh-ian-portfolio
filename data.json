@@ -153,6 +153,15 @@
             "numOfStars": 2,
             "githubUrl": "https://github.com/alhiane-hero/cocktails-API",
             "demoUrl": "https://alhiane-hero.github.io/cocktails-API/"
+        },
+        {
+            "id": 17,
+            "type": "javascript",
+            "imgSrc": "img/prt-17.jpeg",
+            "workName": "And Shop",
+            "numOfStars": 2,
+            "githubUrl": "https://github.com/alhiane-hero/and-shop-dist",
+            "demoUrl": "https://alhiane-hero.github.io/and-shop-dist/home/fashion_page.html#"
         }
     ]
 }
